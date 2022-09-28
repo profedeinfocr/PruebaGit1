@@ -14,7 +14,8 @@ namespace PruebaGit1
             Console.WriteLine("Hello world 0");
             Console.WriteLine("Hello world 1");
             Console.WriteLine("Hello world 2");
-            Console.WriteLine("Hello world 0");
+            Console.WriteLine("Hello world 3");
+            Console.WriteLine("Hello world 4");
 
 
         }
